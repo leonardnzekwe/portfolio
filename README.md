@@ -1,17 +1,3 @@
-# Leonard Nzekwe Portfolio
+# Leonard Nzekwe
 
-A simple one-page personal portfolio built with plain HTML and CSS.
-
-## Files
-
-- `index.html` - main page
-- `styles.css` - all page styling
-- `assets/leonard.png` - portrait image
-
-## Local Preview
-
-Open `index.html` in a browser.
-
-## GitHub Pages
-
-Deploy the repository root with GitHub Pages. If the repository is named `portfolio`, you can host it from the `main` branch root.
+Leonard Nzekwe is a software engineer, founding engineer, and CTO who builds reliable products across web, AI, and cloud. He has worked on marketplace, education, backend, mobile, and infrastructure systems with a focus on performance, scalability, and practical user experience.
